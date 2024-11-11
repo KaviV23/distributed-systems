@@ -16,10 +16,10 @@ public class Client {
             // user input
             System.out.println(
                     "Choose an operation:\n"
-                +   "(1) Addition"
-                +   "(2) Subtraction"
-                +   "(3) Multiplication"
-                +   "(4) Division"
+                +   "(1) Addition\n"
+                +   "(2) Subtraction\n"
+                +   "(3) Multiplication\n"
+                +   "(4) Division\n"
             );
             int selection = 0;
             do {
